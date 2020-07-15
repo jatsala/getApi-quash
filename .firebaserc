@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "api-quash-fb"
+    "default": "api-quash-fb",
+    "jats": "api-quash-fb"
   }
 }
